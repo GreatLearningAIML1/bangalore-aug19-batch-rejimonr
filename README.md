@@ -1,2 +1,2 @@
 # bangalore-aug19-batch-rejimonr
-Assignments submitted for the first residency
+Assignments submitted as part of AIML course
